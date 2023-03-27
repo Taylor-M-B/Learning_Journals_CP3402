@@ -15,7 +15,14 @@ digital ocean support asking them what is going on and I await their reply.</p>
 
 <p>-Resources/Links</p>
 <p>https://lobster-app-kpi5b.ondigitalocean.app/</p>
-<p>170.64.188.144</p>
+<p>170.64.188.144 this is the old droplet IP address and will
+not work for locating my assignment.</p>
+<p>170.64.138.23 This is the new droplet IP address
+for digital ocean. I made a mistake and thought
+deleting the droplet was the best way to start again.
+I have now learnt that there are other ways to fix issues with the droplet.
+Digital ocean is very user friendly and with their guides I have 
+found where I went wrong when installing wordpress.</p>
 
 <p>-Estimated Hours</p>
 <p>I think I spent a total of 15 hours on this, between
